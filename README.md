@@ -6,7 +6,7 @@ Herramienta de **cifrado híbrido AES + RSA** para archivos. Cifra cualquier arc
 
 ## Características
 
-- **Cifrado híbrido**: AES para los datos + RSA para la clave simétrica (key wrapping)
+- **Cifrado híbrido**: AES para los datos + RSA para la clave simétrica 
 - **Modos AES**: CBC, CFB, OFB y CTR
 - **Tamaños de clave AES**: 128, 192 o 256 bits
 - **Claves RSA**: 2048 o 3072 bits con cifrado opcional por contraseña (PKCS8)
@@ -109,8 +109,8 @@ Datos cifrados             RSA-OAEP cifra la clave AES
 ## Estructura del proyecto
 
 ```
-P4YM3PLZ.py          # Script principal (todo en un archivo)
-rsa_private.pem      # Clave privada generada (NO incluir en el repo)
+P4YM3PLZ.py          # Script principal 
+rsa_private.pem      # Clave privada generada 
 rsa_public.pem       # Clave pública generada
 ```
 
