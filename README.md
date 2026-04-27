@@ -1,6 +1,6 @@
 # P4YM3PLZ 🔐
 
-Herramienta de **cifrado híbrido AES + RSA** para archivos. Cifra cualquier archivo con AES (CBC/CFB/OFB/CTR) y protege la clave simétrica mediante cifrado asimétrico RSA con OAEP-SHA256. Los archivos cifrados se guardan con extensión `.p4ym3`.
+Herramienta realizada por grupo de investigación universitario de **cifrado híbrido AES + RSA** para archivos. Cifra cualquier archivo con AES (CBC/CFB/OFB/CTR) y protege la clave simétrica mediante cifrado asimétrico RSA con OAEP-SHA256. Los archivos cifrados se guardan con extensión `.p4ym3`. Hecho para el aprendizaje
 
 ---
 
